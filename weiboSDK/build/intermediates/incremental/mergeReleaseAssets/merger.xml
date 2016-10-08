@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/user/AndroidStudioProjects/elong_personal/BoWeiLangXin/weiboSDK/src/main/assets"/><source path="/Users/user/AndroidStudioProjects/elong_personal/BoWeiLangXin/weiboSDK/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/user/AndroidStudioProjects/elong_personal/BoWeiLangXin/weiboSDK/src/release/assets"/></dataSet></merger>
